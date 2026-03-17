@@ -13,7 +13,7 @@ const company = {
     { value: 'On-Time', label: 'handover focus' },
   ],
   contact: {
-    phone: '+91 98765 43210',
+    phone: '+91 63928 63640',
     email: 'projects@mavenreno.com',
     address: 'Healthcare Business District, New Delhi, India',
   },
